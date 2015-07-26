@@ -4,6 +4,9 @@ author: Bhavesh
 header-text: "Your Favorite Source of Free Bootstrap Themes"
 header-sub-text: "Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!"
 header-btn-text: "Find Out More"
+about-head: We've got what you need!
+about-content: "Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!"
+about-btn-text: "Get Started!"
 port:
   4001
 markdown: kramdown
