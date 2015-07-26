@@ -1,5 +1,10 @@
 # Site settings
 title: Creative
 author: Bhavesh
+header-text: "Your Favorite Source of Free Bootstrap Themes"
+header-sub-text: "Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!"
+header-btn-text: "Find Out More"
 port:
   4001
+markdown: kramdown
+permalink: pretty
