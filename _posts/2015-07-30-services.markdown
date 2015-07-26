@@ -1,0 +1,7 @@
+---
+layout: default
+type: services
+icon: fa-diamond
+service-head: "Sturdy Templates"
+service-text: "You have to make your websites with love these days!"
+---

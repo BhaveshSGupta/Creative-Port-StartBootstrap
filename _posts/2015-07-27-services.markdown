@@ -1,0 +1,7 @@
+---
+layout: default
+type: services
+icon: "fa-heart"
+service-head: "Made with Love"
+service-text: "You have to make your websites with love these days!"
+---

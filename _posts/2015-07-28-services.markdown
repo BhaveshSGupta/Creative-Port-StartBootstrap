@@ -1,0 +1,7 @@
+---
+layout: default
+type: services
+icon: "fa-newspaper-o"
+service-head: "Up to Date"
+service-text: "We update dependencies to keep things fresh."
+---

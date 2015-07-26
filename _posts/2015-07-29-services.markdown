@@ -1,0 +1,7 @@
+---
+layout: default
+type: services
+icon: "fa-paper-plane"
+service-head: "Ready to Ship"
+service-text: "You can use this theme as is, or you can make changes!"
+---
