@@ -1,5 +1,4 @@
 ---
-layout: default
 type: services
 icon: fa-diamond
 service-head: "Sturdy Templates"

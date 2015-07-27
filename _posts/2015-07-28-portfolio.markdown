@@ -1,5 +1,4 @@
 ---
-layout: default
 type: portfolio
 link: "#"
 icon: "img/portfolio/5.jpg"

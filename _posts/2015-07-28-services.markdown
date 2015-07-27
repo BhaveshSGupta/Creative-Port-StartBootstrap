@@ -1,5 +1,4 @@
 ---
-layout: default
 type: services
 icon: "fa-newspaper-o"
 service-head: "Up to Date"

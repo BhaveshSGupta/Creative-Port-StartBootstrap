@@ -1,5 +1,4 @@
 ---
-layout: default
 type: services
 icon: "fa-paper-plane"
 service-head: "Ready to Ship"
