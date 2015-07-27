@@ -19,7 +19,7 @@ about-btn-text: "Get Started!"
 services-text: "At Your Service"
 contact-header: "Let's Get In Touch!"
 contact-text: "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
-contect-number: "123-456-6789"
+contact-number: "123-456-6789"
 contact-email: "feedback@startbootstrap.com"
 
 markdown: kramdown
