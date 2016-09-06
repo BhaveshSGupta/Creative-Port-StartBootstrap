@@ -53,7 +53,7 @@ project-name: "Project Name"
 
 *
 NOTE:
-type: services & type: services if not be mention in post then the post wont be displayed on services or portfolio.
+If type: services or type: portfolio is not mentioned in post then the post wont be displayed on services or portfolio sections.
 *
 
 ---
